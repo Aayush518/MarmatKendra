@@ -61,7 +61,7 @@
         </strong>
         All rights reserved.
         <div class="float-right d-none d-sm-inline-block">
-          <b><?php echo $_settings->info('short_name') ?> (by: <a href="http://1sourcecodr.blogspot.com/" target="blank">oretnom23</a> )</b> v1.0
+          <b><?php echo $_settings->info('') ?> (by: <a href="http://aayushwrites.live/" target="blank">MarmatKendra</a> )</b> v1.0
         </div>
       </footer>
     </div>

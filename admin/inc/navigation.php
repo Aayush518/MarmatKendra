@@ -3,7 +3,7 @@
       <aside class="main-sidebar sidebar-dark-primary elevation-4 sidebar-no-expand">
         <!-- Brand Logo -->
         <a href="<?php echo base_url ?>admin" class="brand-link bg-primary text-sm">
-        <img src="admin/inc/1632965940_vrs-logo.jpg" alt="" class="brand-image img-circle elevation-3" style="opacity: .8;width: 138px;;height: 3;max-height: unset">
+        <img src="admin/inc/1632965940_vrs-logo.jpg" alt="" class="brand-image img-circle elevation-3" style="opacity: .8;width: 34px;;height:34px;max-height: unset">
         <span class="brand-text font-weight-light"><?php echo $_settings->info('') ?></span>MarmatKendra
         </a>
         <!-- Sidebar -->
