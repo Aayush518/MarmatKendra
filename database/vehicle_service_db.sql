@@ -64,8 +64,8 @@ CREATE TABLE `mechanics_list` (
 --
 
 INSERT INTO `mechanics_list` (`id`, `name`, `contact`, `email`, `status`, `date_created`) VALUES
-(1, 'John Smith', '09123456789', 'jsmith@sample.com', 1, '2021-09-30 10:26:11'),
-(2, 'George Wilson', '09112355799', 'gwilson@gmail.com', 1, '2021-09-30 10:30:58');
+(1, 'Ramsagar', '09123456789', 'ramsagar@gmail.com', 1, '2022-09-30 10:26:11'),
+(2, 'Hari Kumar', '09112355799', 'kumarhari@gmail.com', 1, '2022-09-30 10:30:58');
 
 -- --------------------------------------------------------
 
